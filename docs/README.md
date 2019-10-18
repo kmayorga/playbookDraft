@@ -1,8 +1,5 @@
-<!-- _coverpage.md -->
-
-![logo](/_images/testimage.jpg ':size=140x120')
-
-# FY20 Impact Analytics Playbook
+# Test-Repo
+ # FY20 Impact Analytics Playbook
 
 > Welcome! This is your *magical* guide for tools and resources to successfully execute City Year's Whole School Whole Child Model for your team. This page is designed to be a one-stop shop for all things #Impact Analytics# as they relate to Program Mangers and Program Directors including start of year data requests, assessments, focus list creations and more!
 
@@ -11,16 +8,5 @@ If you have questions or need support, please reach out to the Impact Analytics 
 - Toolkit version #1
 - Date Created: 10/17/2019
 
-[Get Started](README.md)
-[SAM Login](https://h100002412.education.scholastic.com/ScholasticCentral)
-[HMH Login](https://h100002412.education.scholastic.com/)
+- [ELA Toolkit](coverpage.md)
 
-
-![RI Performance Bands](/_images/test2.jpeg)
-
-Did it include this?
-
-
-I am not sure how this is connected to the deskttop?
-
-ne changes!
