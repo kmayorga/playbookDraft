@@ -1,12 +1,5 @@
-# Test-Repo
- # FY20 Impact Analytics Playbook
+# read me file
 
-> Welcome! This is your *magical* guide for tools and resources to successfully execute City Year's Whole School Whole Child Model for your team. This page is designed to be a one-stop shop for all things #Impact Analytics# as they relate to Program Mangers and Program Directors including start of year data requests, assessments, focus list creations and more!
+This is the place where I give directions to how to do this thing
 
-If you have questions or need support, please reach out to the Impact Analytics Team via the [CYLA Help Desk](https://cityyear.sharepoint.com/teams/lax/Lists/Test/Issue/newifs.aspx?List=53a03e3a-0288-41d4-b12c-bcdd86af087f&Source=https%3a//cityyear.sharepoint.com/teams/lax/Pages/My-CYLA-Help-Desk-Cases.aspx&RootFolder=&Web=23636188-2f45-4295-809c-a8ec947729e4)
-
-- Toolkit version #1
-- Date Created: 10/17/2019
-
-- [ELA Toolkit](coverpage.md)
 
